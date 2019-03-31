@@ -1,0 +1,12 @@
+﻿La génération a démarré 24/04/2018 08:48:33.
+     1>Projet "C:\Users\WassHj\documents\visual studio 2012\Projects\pjsem2\pjsem2\pjsem2.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\WassHj\documents\visual studio 2012\Projects\pjsem2\Debug\pjsem2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\WassHj\documents\visual studio 2012\Projects\pjsem2\Debug\pjsem2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\WassHj\documents\visual studio 2012\Projects\pjsem2\Debug\pjsem2.lib" /MACHINE:X86 Debug\main.obj
+         Debug\premium.obj
+         Debug\reservation.obj
+         pjsem2.vcxproj -> C:\Users\WassHj\documents\visual studio 2012\Projects\pjsem2\Debug\pjsem2.exe
+     1>Génération du projet "C:\Users\WassHj\documents\visual studio 2012\Projects\pjsem2\pjsem2\pjsem2.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:00.93
